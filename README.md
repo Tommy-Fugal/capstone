@@ -8,7 +8,7 @@ Looking at the raw dataset that I chose to use I found that there was no duplica
 
 ## Questions
 
-There were 4 questions/correlations that I anaylzed through my research. These questions are: how does minutes per game correlate with points per game, how does player age correlate with points per game, how does scoring efficiency correlate with points per game, and what is the correlation between 2 point shot percentage and 3 point shot percentage.
+There were 4 questions/correlations that I anaylzed through my research. These questions are: how does minutes per game correlate with points per game, how does player age correlate with points per game, how does scoring efficiency change with points per game, and what is the relationship between 2 point shot percentage and 3 point shot percentage.
 
 
 
