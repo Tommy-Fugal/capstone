@@ -10,6 +10,8 @@ Looking at the raw dataset that I chose to use I found that there was no duplica
 
 There were 4 questions that I anaylzed through my research. These questions are: how does minutes per game correlate with points per game, how does player age correlate with points per game, how does scoring efficiency change with points per game, and what is the relationship between 2 point shot percentage and 3 point shot percentage.
 
+## Question 1: How does minutes per game correlate with points per game?
+
 
 
 In this repository there is also a link to the file I created visuals and anaylzed data with which can be accessed by clicking the "capstone.pbix" file and accessing it through Power BI. There is also a link to the google sheet file I used to analyze data as well as a link to the raw dataset that I used with this project.
