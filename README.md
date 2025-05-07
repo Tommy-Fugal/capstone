@@ -12,7 +12,7 @@ There were 4 questions that I anaylzed through my research. These questions are:
 
 ## Question 1: How does minutes per game correlate with points per game?
 
-
+![Screenshot](https://github.com/Tommy-Fugal/capstone/blob/main/MPG-PPG)
 
 Looking at this visual we can see a scatter plot that shows the correlation between minutes and points per game with points on the y-axis and minutes on the x-axis. There is a trend that shows that on average the more minutes a player receives, the more points they typically score. This is shown with the trend line where there is a clear trend upwards that proves that points increase with minutes increasing. I also calculated the R^2 value which turned out to be about 0.54 which shows a medium positive relationship and proves that there is a positve corrrelation between these 2 variables. This can be useful information to NBA managers and coaches because it shows that it is on average more beneficial to give their best players more minutes because they are most likely to score more points with those minutes and in turn help them win the game.
 
